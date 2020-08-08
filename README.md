@@ -9,11 +9,11 @@
     
 #### 设计思路
 
-![设计思路](image/design.png)
+![设计思路](https://github.com/splove/proxyip_pools/blob/master/image/design.png)
     
 ##### 联系作者
 - QQ：179830799
 - weixin：splove_nb
 
 ##### 请作者喝咖啡
-![喝咖啡](image/sponsor.png)
+![喝咖啡](https://github.com/splove/proxyip_pools/blob/master/image/sponsor.png)
