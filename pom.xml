@@ -14,7 +14,7 @@
     <version>1.1.0.RELEASE</version>
     <name>proxyip-pools</name>
     <description>代理ip池</description>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <properties>
         <java.version>1.8</java.version>
